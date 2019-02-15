@@ -1,0 +1,15 @@
+C:\Users\Pablo Delfin\source\repos\coseteco-online\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Pablo Delfin\source\repos\coseteco-online\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Pablo Delfin\source\repos\coseteco-online\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Pablo Delfin\source\repos\coseteco-online\CapaPresentacion\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Pablo Delfin\source\repos\coseteco-online\CapaPresentacion\bin\Debug\CapaLogicaNegocios.dll
+C:\Users\Pablo Delfin\source\repos\coseteco-online\CapaPresentacion\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Pablo Delfin\source\repos\coseteco-online\CapaPresentacion\bin\Debug\CapaAccesoDatos.dll.config
+C:\Users\Pablo Delfin\source\repos\coseteco-online\CapaPresentacion\bin\Debug\CapaLogicaNegocios.pdb
+C:\Users\Pablo Delfin\source\repos\coseteco-online\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Pablo Delfin\source\repos\coseteco-online\CapaPresentacion\obj\Debug\CapaPresentacion.FormConecction.resources
+C:\Users\Pablo Delfin\source\repos\coseteco-online\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Pablo Delfin\source\repos\coseteco-online\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Delfin\source\repos\coseteco-online\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Pablo Delfin\source\repos\coseteco-online\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Pablo Delfin\source\repos\coseteco-online\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
