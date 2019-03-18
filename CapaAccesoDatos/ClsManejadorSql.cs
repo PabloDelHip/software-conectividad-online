@@ -1,24 +1,22 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data;
+using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using MySql.Data;
-using MySql.Data.MySqlClient;
-
 
 namespace CapaAccesoDatos
 {
-    public class ClsManejador
+    public class ClsManejadorSql
     {
-        static ConexionDB conexionDatos = new ConexionDB();
-        public static string _user = conexionDatos.User;
-        public static string _password = conexionDatos.Password;
-        public static string _data_base = conexionDatos.DataBase;
-        public static string _server = conexionDatos.Server;
+        static ConexionDBSql conexionDatos = new ConexionDBSql();
+        public static string _user_sql = conexionDatos.User;
+        public static string _password_sql = conexionDatos.Password;
+        public static string _data_base_sql = conexionDatos.DataBase;
+        public static string _server_sql = conexionDatos.Server;
 
-        MySqlConnection Conexion = new MySqlConnection("Data source = " + _server + "; Initial Catalog = " + _data_base + "; User Id = " + _user + "; password=" + _password);
+        SqlConnection Conexion = new SqlConnection("Data source = " + _server_sql + "; Initial Catalog = " + _data_base_sql + "; User Id = " + _user_sql + "; password=" + _password_sql);
 
         public bool cambiarDatosConexion(string usuario, string password, string bd, string servidor)
         {
@@ -78,16 +76,16 @@ namespace CapaAccesoDatos
         }
 
         // metodo para ejecutar el SP  Insert, update, delete 
-        public void Ejecutar_sp(string NombreSP, List<ClsParametros> lst)
+        public void Ejecutar_sp(string NombreSP, List<ClsParametrosSql> lst)
         {
-            MySqlCommand cmd;
+            SqlCommand cmd;
 
             try
             {
 
 
                 abrir_conexion(); // intentamos abrir la conexion
-                cmd = new MySqlCommand(NombreSP, Conexion);
+                cmd = new SqlCommand(NombreSP, Conexion);
                 cmd.CommandType = CommandType.StoredProcedure;
                 if (lst != null)
                 {
@@ -128,11 +126,11 @@ namespace CapaAccesoDatos
         public DataTable Listado(string NombreSP, List<ClsParametros> lst)
         {
             DataTable dt = new DataTable();  // tipo de dato de visual studio contenedor de una tabla
-            MySqlDataAdapter Da;               // tipo de dato de visual studio contenedor de una tabla de SQL
+            SqlDataAdapter Da;               // tipo de dato de visual studio contenedor de una tabla de SQL
             //mysqld
             try
             {
-                Da = new MySqlDataAdapter(NombreSP, Conexion);   // este adaptador lo reconoce la libreria de sql como un contenedor de datos
+                Da = new SqlDataAdapter(NombreSP, Conexion);   // este adaptador lo reconoce la libreria de sql como un contenedor de datos
                 Da.SelectCommand.CommandType = CommandType.StoredProcedure;  // le decimos al adaptador que es un tipo SP
                 if (lst != null)
                 {

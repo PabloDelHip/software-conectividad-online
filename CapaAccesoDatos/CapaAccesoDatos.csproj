@@ -56,11 +56,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ClsManejador.cs" />
+    <Compile Include="ClsManejadorSql.cs" />
     <Compile Include="ClsParametros.cs" />
+    <Compile Include="ClsParametrosSql.cs" />
     <Compile Include="ConexionDB.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
       <DependentUpon>ConexionDB.settings</DependentUpon>
+    </Compile>
+    <Compile Include="ConexionDBSql.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>ConexionDBSql.settings</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -69,6 +76,10 @@
     <None Include="ConexionDB.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>ConexionDB.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="ConexionDBSql.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>ConexionDBSql.Designer.cs</LastGenOutput>
     </None>
     <None Include="packages.config" />
   </ItemGroup>
