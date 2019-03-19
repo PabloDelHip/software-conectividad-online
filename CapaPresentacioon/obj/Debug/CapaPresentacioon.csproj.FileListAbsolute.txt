@@ -40,3 +40,25 @@ C:\Users\Pablo Delfin\Documents\GitHub\software-conectividad-online\CapaPresenta
 C:\Users\Pablo Delfin\Documents\GitHub\software-conectividad-online\CapaPresentacioon\obj\Debug\CapaPresentacioon.csproj.CopyComplete
 C:\Users\Pablo Delfin\Documents\GitHub\software-conectividad-online\CapaPresentacioon\obj\Debug\CapaPresentacioon.exe
 C:\Users\Pablo Delfin\Documents\GitHub\software-conectividad-online\CapaPresentacioon\obj\Debug\CapaPresentacioon.pdb
+C:\laragon\www\software-conectividad-online\CapaPresentacioon\bin\Debug\CapaPresentacioon.exe.config
+C:\laragon\www\software-conectividad-online\CapaPresentacioon\bin\Debug\CapaPresentacioon.exe
+C:\laragon\www\software-conectividad-online\CapaPresentacioon\bin\Debug\CapaPresentacioon.pdb
+C:\laragon\www\software-conectividad-online\CapaPresentacioon\bin\Debug\CapaAccesoDatos.dll
+C:\laragon\www\software-conectividad-online\CapaPresentacioon\bin\Debug\CapaLogicaNegocios.dll
+C:\laragon\www\software-conectividad-online\CapaPresentacioon\bin\Debug\MySql.Data.dll
+C:\laragon\www\software-conectividad-online\CapaPresentacioon\bin\Debug\Google.Protobuf.dll
+C:\laragon\www\software-conectividad-online\CapaPresentacioon\bin\Debug\CapaAccesoDatos.pdb
+C:\laragon\www\software-conectividad-online\CapaPresentacioon\bin\Debug\CapaAccesoDatos.dll.config
+C:\laragon\www\software-conectividad-online\CapaPresentacioon\bin\Debug\CapaLogicaNegocios.pdb
+C:\laragon\www\software-conectividad-online\CapaPresentacioon\bin\Debug\MySql.Data.xml
+C:\laragon\www\software-conectividad-online\CapaPresentacioon\bin\Debug\Google.Protobuf.xml
+C:\laragon\www\software-conectividad-online\CapaPresentacioon\obj\Debug\CapaPresentacioon.csprojAssemblyReference.cache
+C:\laragon\www\software-conectividad-online\CapaPresentacioon\obj\Debug\CapaPresentacioon.FormConecction.resources
+C:\laragon\www\software-conectividad-online\CapaPresentacioon\obj\Debug\CapaPresentacioon.inicio.resources
+C:\laragon\www\software-conectividad-online\CapaPresentacioon\obj\Debug\CapaPresentacioon.Properties.Resources.resources
+C:\laragon\www\software-conectividad-online\CapaPresentacioon\obj\Debug\CapaPresentacioon.csproj.GenerateResource.cache
+C:\laragon\www\software-conectividad-online\CapaPresentacioon\obj\Debug\CapaPresentacioon.csproj.CoreCompileInputs.cache
+C:\laragon\www\software-conectividad-online\CapaPresentacioon\obj\Debug\CapaPresentacioon.csproj.CopyComplete
+C:\laragon\www\software-conectividad-online\CapaPresentacioon\obj\Debug\CapaPresentacioon.exe
+C:\laragon\www\software-conectividad-online\CapaPresentacioon\obj\Debug\CapaPresentacioon.pdb
+C:\laragon\www\software-conectividad-online\CapaPresentacioon\obj\Debug\CapaPresentacioon.FormConecctionSql.resources

@@ -26,3 +26,17 @@ C:\Users\Pablo Delfin\Documents\GitHub\software-conectividad-online\CapaLogicaNe
 C:\Users\Pablo Delfin\Documents\GitHub\software-conectividad-online\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.csproj.CopyComplete
 C:\Users\Pablo Delfin\Documents\GitHub\software-conectividad-online\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.dll
 C:\Users\Pablo Delfin\Documents\GitHub\software-conectividad-online\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.pdb
+C:\laragon\www\software-conectividad-online\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.dll
+C:\laragon\www\software-conectividad-online\CapaLogicaNegocios\bin\Debug\CapaLogicaNegocios.pdb
+C:\laragon\www\software-conectividad-online\CapaLogicaNegocios\bin\Debug\CapaAccesoDatos.dll
+C:\laragon\www\software-conectividad-online\CapaLogicaNegocios\bin\Debug\MySql.Data.dll
+C:\laragon\www\software-conectividad-online\CapaLogicaNegocios\bin\Debug\Google.Protobuf.dll
+C:\laragon\www\software-conectividad-online\CapaLogicaNegocios\bin\Debug\CapaAccesoDatos.pdb
+C:\laragon\www\software-conectividad-online\CapaLogicaNegocios\bin\Debug\CapaAccesoDatos.dll.config
+C:\laragon\www\software-conectividad-online\CapaLogicaNegocios\bin\Debug\MySql.Data.xml
+C:\laragon\www\software-conectividad-online\CapaLogicaNegocios\bin\Debug\Google.Protobuf.xml
+C:\laragon\www\software-conectividad-online\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.csprojAssemblyReference.cache
+C:\laragon\www\software-conectividad-online\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.csproj.CoreCompileInputs.cache
+C:\laragon\www\software-conectividad-online\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.csproj.CopyComplete
+C:\laragon\www\software-conectividad-online\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.dll
+C:\laragon\www\software-conectividad-online\CapaLogicaNegocios\obj\Debug\CapaLogicaNegocios.pdb

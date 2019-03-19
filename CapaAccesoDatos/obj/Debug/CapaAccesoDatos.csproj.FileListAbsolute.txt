@@ -22,3 +22,15 @@ C:\Users\Pablo Delfin\Documents\GitHub\software-conectividad-online\CapaAccesoDa
 C:\Users\Pablo Delfin\Documents\GitHub\software-conectividad-online\CapaAccesoDatos\bin\Debug\Google.Protobuf.xml
 C:\Users\Pablo Delfin\Documents\GitHub\software-conectividad-online\CapaAccesoDatos\bin\Debug\MySql.Data.xml
 C:\Users\Pablo Delfin\Documents\GitHub\software-conectividad-online\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+C:\laragon\www\software-conectividad-online\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll.config
+C:\laragon\www\software-conectividad-online\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\laragon\www\software-conectividad-online\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\laragon\www\software-conectividad-online\CapaAccesoDatos\bin\Debug\Google.Protobuf.dll
+C:\laragon\www\software-conectividad-online\CapaAccesoDatos\bin\Debug\MySql.Data.dll
+C:\laragon\www\software-conectividad-online\CapaAccesoDatos\bin\Debug\Google.Protobuf.xml
+C:\laragon\www\software-conectividad-online\CapaAccesoDatos\bin\Debug\MySql.Data.xml
+C:\laragon\www\software-conectividad-online\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojAssemblyReference.cache
+C:\laragon\www\software-conectividad-online\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\laragon\www\software-conectividad-online\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+C:\laragon\www\software-conectividad-online\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\laragon\www\software-conectividad-online\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb

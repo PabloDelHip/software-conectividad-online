@@ -52,6 +52,12 @@
     <Compile Include="FormConecction.Designer.cs">
       <DependentUpon>FormConecction.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormConecctionSql.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormConecctionSql.Designer.cs">
+      <DependentUpon>FormConecctionSql.cs</DependentUpon>
+    </Compile>
     <Compile Include="inicio.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -62,6 +68,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FormConecction.resx">
       <DependentUpon>FormConecction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormConecctionSql.resx">
+      <DependentUpon>FormConecctionSql.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="inicio.resx">
       <DependentUpon>inicio.cs</DependentUpon>
